@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-#Projeto criado com a intenção do aprendizado da biblioteca react-testing-libary
+#Projeto criado com a intenção do aprendizado da biblioteca react-testing-library
 In the project directory, you can run:
 
 ### `yarn start`
